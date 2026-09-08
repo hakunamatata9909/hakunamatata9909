@@ -1,11 +1,16 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HakunMatata&section=header&reversal=true&fontAlign=50)
 
-# 정윤호
-
 <br>
 <br>
 
 # 🌐 Link
+<a href="https://hakunamatata0930.tistory.com/">
+  <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white">
+</a>
+
+<a href="https://app.notion.com/p/2f5beb95646281578d10c38909f266a4">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white">
+</a>
 
 <br>
 
