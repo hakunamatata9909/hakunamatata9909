@@ -4,8 +4,7 @@
 <br>
 
 # 🌐 Link
-<a href="https://hakunamatata0930.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>&nbsp;&nbsp;<a href="https://app.notion.com/p/2f5beb95646281578d10c38909f266a4"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
-<br>
+<a href="https://hakunamatata0930.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://app.notion.com/p/2f5beb95646281578d10c38909f266a4"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:jyoohho0930@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 # 📃 Projects
 - [TenTenTown](https://app.notion.com/p/TenTenTown-2f5beb956462815c98f5d8fb36ed21a0) - GAS 아키텍처 설계 및 전투 구현 
