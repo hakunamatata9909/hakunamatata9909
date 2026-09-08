@@ -4,14 +4,7 @@
 <br>
 
 # 🌐 Link
-<a href="https://hakunamatata0930.tistory.com/">
-  <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white">
-</a>
-
-<a href="https://app.notion.com/p/2f5beb95646281578d10c38909f266a4">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white">
-</a>
-
+<a href="https://hakunamatata0930.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>&nbsp;&nbsp;<a href="https://app.notion.com/p/2f5beb95646281578d10c38909f266a4"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 <br>
 
 # 📃 Projects
@@ -21,3 +14,8 @@
 
 # 💡Skills
 ![UnrealEngine](https://img.shields.io/badge/unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wjdguswn1203)
